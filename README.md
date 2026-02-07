@@ -1,5 +1,5 @@
 #  Hi, I'm Deepanshu
-**MCA Graduate || Machine Learning & Data Analytics Enthusiast**
+**MCA Graduate || AI/ML & Data Science Enthusiast**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepanshu-kumar-3135752a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputdeepanshu8383@gmail.com) 
 
@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Generative%20AI-9B59B6?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
